@@ -1,5 +1,5 @@
 Hi, I'm Ashutosh Maurya 
-I am a Senior Frontend Engineer with over 5 years of experience architecting end-to-end SaaS products, real-time communication systems, and AI-driven  applications. I specialize in bridging the gap between complex backend systems and high-performance, accessible user experiences.
+I am a **Senior Frontend Engineer** with over 5+ years of experience architecting end-to-end SaaS products, real-time communication systems, and AI-driven  applications. I specialize in bridging the gap between complex backend systems and high-performance, accessible user experiences.
      
 # Tech StackCore: 
     1. React.js, TypeScript, Next.js 14 (App Router, SSR, RSC)  
