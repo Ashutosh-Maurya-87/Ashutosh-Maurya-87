@@ -1,12 +1,12 @@
 Hi, I'm Ashutosh Maurya 
 I am a **Senior Frontend Engineer** with over 5+ years of experience architecting end-to-end SaaS products, real-time communication systems, and AI-driven  applications. I specialize in bridging the gap between complex backend systems and high-performance, accessible user experiences.
      
-# Tech StackCore: 
-    1. React.js, TypeScript, Next.js 14 (App Router, SSR, RSC)  
-    2. AI/LLM: OpenAI API, LLM Streaming, RAG Front-ends, Vercel AI SDK, LangChain UI   
-    3. State & Data: Redux Toolkit, React Query, Zustand, WebSockets, GraphQL   
-    4. Performance: Core Web Vitals, Lighthouse CI, react-window (Virtualization)   
-    5. DevOps: GitHub Actions CI/CD, Vercel, Docker, Automated Quality Gates
+# Tech Stack:
+    **1.** Core:**** React.js, TypeScript, Next.js 14 (App Router, SSR, RSC)  
+    **2. AI/LLM:** OpenAI API, LLM Streaming, RAG Front-ends, Vercel AI SDK, LangChain UI   
+    **3. State & Data:** Redux Toolkit, React Query, Zustand, WebSockets, GraphQL   
+    **4. Performance:** Core Web Vitals, Lighthouse CI, react-window (Virtualization)   
+    **5. DevOps:** GitHub Actions CI/CD, Vercel, Docker, Automated Quality Gates
     
 # Key Professional Highlights
     **Performance Architect:** Reduced data retrieval latency by 25% and cut analytics view render time by 40% for 500k+ record datasets.  
